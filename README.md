@@ -36,7 +36,7 @@ The PDF version of my resume is available in this repository. You can download i
 
 I am always open to discussing new opportunities, collaborations, or any queries you might have. Feel free to reach out to me via the following channels:
 
-- **Email**: ahmed.hazem@example.com
+- **Email**: ahmed453189@fci.bu.edu.eg
 - **LinkedIn**: https://www.linkedin.com/in/ahmed-hazem-9a904924b/
 - **GitHub**: https://github.com/ahmed-hazem-1
 

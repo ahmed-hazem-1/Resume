@@ -19,7 +19,7 @@ My name is Ahmed Hazem, and I am currently studying Computer Science and Artific
 
 The PDF version of my resume is available in this repository. You can download it directly or view it online using the link below.
 
-- [Resume PDF]([path/to/your/resume.pdf](https://github.com/ahmed-hazem-1/Resume/blob/main/Ahmed%20Intern%20v.1.2.pdf))
+- [Resume PDF]((https://github.com/ahmed-hazem-1/Resume/blob/main/Ahmed%20Intern%20v.1.2.pdf))
 
 ## How to Use
 
@@ -30,7 +30,7 @@ The PDF version of my resume is available in this repository. You can download i
 
 2. **Download the resume**: If you prefer, you can download the resume PDF directly from the repository without cloning. Simply navigate to the `resume.pdf` file in the repository and click the download button.
 
-3. **View online**: You can view the resume online by clicking [here]([path/to/your/resume.pdf](https://github.com/ahmed-hazem-1/Resume/blob/main/Ahmed%20Intern%20v.1.2.pdf)).
+3. **View online**: You can view the resume online by clicking [here]((https://github.com/ahmed-hazem-1/Resume/blob/main/Ahmed%20Intern%20v.1.2.pdf)).
 
 ## Contact
 
